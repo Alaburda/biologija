@@ -1,0 +1,16 @@
+book_filename: "biology_book"
+delete_merged_file: true
+language:
+  label:
+    fig: 'Grafikas '
+    tab: 'Lentelė '
+    eq: 'Formulė '
+    exm: 'Pavyzyds '
+    exr: 'Užduotis '
+    solution: 'Sprendimas. '
+  ui:
+    edit: Redaguoti
+    chapter_name: !expr function(i) paste(i, 'skyrius')
+new_session: yes
+output_format: gitbook
+output_dir: docs
