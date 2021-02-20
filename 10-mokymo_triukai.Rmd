@@ -1,5 +1,22 @@
 # Mokymo triukai
 
+## Iliustratoriai
+
+https://lizawolfson.co.uk/
+
+
+## Kahoot
+
+Kahoot yra testų platforma, kuri palengvina žinių testavimą. Sukurti klausimai gali būti rodomi ekrane, o moksleiviai, naudodamiesi telefonais, gali atsakyti į klausimus.
+
+Viešai prieinamų Kahoot sąrašas:
+
+* [Sukurti viešai prieinamus Kahoot](https://kahoot.com/academy/)
+
+## Simuliacijos
+
+* [Fitting Multivariate ODE with brms](https://magesblog.com/post/2021-02-08-fitting-multivariate-ode-models-with-brms/)
+
 ## Zinai
 
 Nuorodos:
@@ -45,3 +62,6 @@ Twitter:
 
 * [GAGA ir GUGU](https://twitter.com/kirvers/status/1359007532384067586)
 
+## Kiti galimi įrankiai
+
+* [Objection.lol](objection.lol) - Ace Atorney Objection generatorius
