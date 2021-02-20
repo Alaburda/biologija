@@ -1,5 +1,9 @@
 # (PART) Žmogaus biologija {-}
 
+# Audiniai
+
+[Interaktyvus histologijos atlasas](http://medcell.med.yale.edu/histology/histology.php)
+
 # Kraujotaka
 
 Pažiūrėk į savo pirštus. Juose nėra raumenų, tačiau jie rausvi. Mūsų odai atspalvį suteikia kraujas, kuris nuolat juda iš mūsų širdies ir atgal. Nesvarbu, ar mes gulime, ar judame, kraujotaka prisitaiko ir be trikdžių užtikrina, jog visi organai išliktų aprūpinti krauju. Juo labiau, jeigu patiriame traumą, kraujotaka sugeba pati susiremontuoti ir sugyti. Mes esame varomi dinamiško, prisitaikančio vamzdyno, kuris sugeba pats save suremontuoti. Tokiu būdu mūsų kūnas gali palaikyti vidinę homeostazę ir užtikrinti signalų perdavimą. Kraujotakos sistemos supratimas yra mūsų pirmas uždavinys

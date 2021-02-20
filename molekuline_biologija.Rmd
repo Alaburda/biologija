@@ -1,5 +1,11 @@
 # Molekulinė biologija
 
+## Ląstelės sandara
+
+* Organelės
+* Citoplazma
+* 
+
 ## BLAST dirbtuvės
 
 https://people.bath.ac.uk/bsssjc/bioinf_ug.bho/bioinf_1.html
