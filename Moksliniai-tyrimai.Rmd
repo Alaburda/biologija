@@ -1,0 +1,5 @@
+# Moksliniai tyrimai
+
+The Effect knyga:
+chapter 2 - geram moksliniam tyrimui reikalinga teorija, tikslingas klausimas, galimybe duomenis surinkti, pakankama imtis ir trukme, tinkamas dizainas
+chapter 3 - pagrindiniai kintsmuju tipsi, kaip apibendrinti, kaip elgiasi skirstiniai ir kas tai yra, izanga i statistinius testus su vienu kintamuoju. praktiniai pvz butu zipf law, law of numbers su tax reports ir minecraft speedrun hack
