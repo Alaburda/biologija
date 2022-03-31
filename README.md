@@ -2,3 +2,6 @@ This is a minimal example of a book based on R Markdown and **bookdown** (https:
 
 Illustrations
 https://www.jason-lyon.com/ 
+
+Gnarly stuff
+https://erowid.org/library/books_online/pihkal/pihkal.shtml 
